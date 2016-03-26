@@ -1,0 +1,515 @@
+fileFormatVersion: 2
+guid: d9805cb9dd42115409327f06adda28e9
+timeCreated: 1458580131
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WalkSet_0
+    21300002: WalkSet_1
+    21300004: WalkSet_2
+    21300006: WalkSet_3
+    21300008: WalkSet_4
+    21300010: WalkSet_5
+    21300012: WalkSet_6
+    21300014: WalkSet_7
+    21300016: WalkSet_8
+    21300018: WalkSet_9
+    21300020: WalkSet_10
+    21300022: WalkSet_11
+    21300024: WalkSet_12
+    21300026: WalkSet_13
+    21300028: WalkSet_14
+    21300030: WalkSet_15
+    21300032: WalkSet_16
+    21300034: WalkSet_17
+    21300036: WalkSet_18
+    21300038: WalkSet_19
+    21300040: WalkSet_20
+    21300042: WalkSet_21
+    21300044: WalkSet_22
+    21300046: WalkSet_23
+    21300048: WalkSet_24
+    21300050: WalkSet_25
+    21300052: WalkSet_26
+    21300054: WalkSet_27
+    21300056: WalkSet_28
+    21300058: WalkSet_29
+    21300060: WalkSet_30
+    21300062: WalkSet_31
+    21300064: WalkSet_32
+    21300066: WalkSet_33
+    21300068: WalkSet_34
+    21300070: WalkSet_35
+    21300072: WalkSet_36
+    21300074: WalkSet_37
+    21300076: WalkSet_38
+    21300078: WalkSet_39
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: WalkSet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 227
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 226
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 227
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 226
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 196
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 196
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 196
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 166
+        width: 4
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 166
+        width: 5
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 135
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 135
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 135
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 135
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_14
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 135
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_15
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 135
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 135
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 135
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 103
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_19
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 104
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 72
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 73
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_22
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 73
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_23
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 71
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_24
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 71
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_25
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 70
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_26
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 71
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_27
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 71
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 41
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 41
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 10
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_31
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 10
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 9
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_33
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 8
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_34
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 7
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_35
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 7
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_36
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WalkSet_37
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 9
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
