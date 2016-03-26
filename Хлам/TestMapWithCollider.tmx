@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" renderorder="right-down" width="10" height="10" tilewidth="72" tileheight="36" nextobjectid="1">
+ <tileset firstgid="1" name="SandTile1" tilewidth="76" tileheight="76" tilecount="40" columns="8">
+  <image source="../../диплом/Backgrounds/SandTile1.png" width="608" height="395"/>
+  <tile id="2">
+   <objectgroup draworder="index">
+    <object id="0" x="14" y="27">
+     <polygon points="0,0 0.333333,37.6667 17.3333,46 35.6667,40.6667 51.3333,31.3333 54,25.6667 49.3333,-12.3333 36.3333,-19 0,-0.333333"/>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="3">
+   <objectgroup draworder="index">
+    <object id="0" x="14.3333" y="27.3333">
+     <polygon points="0,0 -0.333333,37.3333 13.6667,45 27.3333,42 45.3333,34 54.3333,26 49.3333,-13 36.6667,-20 0,0"/>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="4">
+   <objectgroup draworder="index">
+    <object id="0" x="12.6667" y="26">
+     <polygon points="0,0 0.333333,39 15,46 54.6667,27 50,-11.6667 37,-18 0.333333,0"/>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="5">
+   <objectgroup draworder="index">
+    <object id="0" x="39.6667" y="65">
+     <polygon points="0,0 -10.6667,6.66667 -26.3333,-0.666667 -26.3333,-38 -10.3333,-46.6667 -3.66667,-49.3333 0,0.666667"/>
+    </object>
+    <object id="0" x="60" y="57.3333">
+     <polygon points="0,0 8.33333,-5.66667 3.66667,-43 -9,-49.6667 -9.33333,-49.6667 -0.333333,0"/>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="9">
+   <objectgroup draworder="index">
+    <object id="0" x="25" y="8">
+     <polygon points="0,0 -0.666667,47.6667 -13,44.3333 -13.3333,6.66667 0.333333,-0.333333"/>
+    </object>
+    <object id="0" x="40.3333" y="66">
+     <polygon points="0,0 -1,-37 9,-46 21,-40.3333 28.3333,-4.66667 11.3333,4 0,-0.333333"/>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="10">
+   <objectgroup draworder="index">
+    <object id="0" x="12" y="14.6667">
+     <polygon points="0,0 0,37.6667 10.6667,49.3333 37.6667,54.6667 56.3333,47.3333 49.6667,12.6667 12.6667,-6.66667"/>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="11">
+   <objectgroup draworder="index">
+    <object id="0" x="11.6667" y="15">
+     <polygon points="0,0 0,36 37.6667,55.6667 56.6667,45.6667 50.3333,11.6667 13,-7"/>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="12">
+   <objectgroup draworder="index">
+    <object id="0" x="24.3333" y="7.66667">
+     <polygon points="0,0 -12.3333,6.66667 -12,44.3333 -10.3333,57.3333 7.66667,66.3333 32.3333,55 25.6667,13 0,-0.333333"/>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="13">
+   <objectgroup draworder="index">
+    <object id="0" x="51.3333" y="8">
+     <polygon points="0,0 -26,12.6667 -25,55 -3.33333,63.3333 17.3333,53.6667 10.6667,18.6667 1,12.6667 12,6.66667"/>
+    </object>
+   </objectgroup>
+  </tile>
+ </tileset>
+ <layer name="Floor" width="10" height="10">
+  <data encoding="base64">
+   AQAAAAEAAAABAAAAAQAAAAIAAAACAAAAAgAAAAEAAAABAAAAAgAAAAIAAAABAAAAAQAAAAIAAAACAAAAAgAAAAEAAAACAAAAAQAAAAIAAAABAAAAAgAAAAEAAAACAAAAAQAAAAIAAAABAAAAAQAAAAIAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAACAAAAAgAAAAEAAAACAAAAAgAAAAIAAAABAAAAAQAAAAEAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAQAAAAEAAAACAAAAAgAAAAEAAAACAAAAAQAAAAEAAAABAAAAAgAAAAIAAAACAAAAAQAAAAEAAAABAAAAAgAAAAEAAAABAAAAAgAAAAIAAAABAAAAAQAAAAEAAAACAAAAAQAAAAIAAAACAAAAAQAAAAEAAAACAAAAAQAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAABAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAQAAAAIAAAABAAAAAQAAAA==
+  </data>
+ </layer>
+ <layer name="Walls" width="10" height="10">
+  <data encoding="base64">
+   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwAAAAoAAAALAAAADQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  </data>
+ </layer>
+</map>
