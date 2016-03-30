@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="isometric" renderorder="right-down" width="10" height="10" tilewidth="72" tileheight="36" nextobjectid="1">
  <tileset firstgid="1" name="SandTile1" tilewidth="76" tileheight="76" tilecount="40" columns="8">
-  <image source="../../диплом/Backgrounds/SandTile1.png" width="608" height="395"/>
+  <image source="../Assets/Sprites/Backgrounds/SandTile1.png" width="608" height="395"/>
   <tile id="2">
    <objectgroup draworder="index">
     <object id="0" x="14" y="27">

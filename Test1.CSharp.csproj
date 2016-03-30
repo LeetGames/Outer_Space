@@ -73,6 +73,7 @@
   <ItemGroup>
     <None Include="Assets\Tiled2Unity\Imported\Cave.tiled2unity.xml" />
     <None Include="Assets\Tiled2Unity\Imported\Concrete.tiled2unity.xml" />
+    <None Include="Assets\Tiled2Unity\Imported\TestMapWithCollider.tiled2unity.xml" />
     <None Include="Assets\Tiled2Unity\Imported\_ReadMe.txt" />
     <None Include="Assets\Tiled2Unity\Imported\dong.tiled2unity.xml" />
     <None Include="Assets\Tiled2Unity\Imported\untitled.tiled2unity.xml" />

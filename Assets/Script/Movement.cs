@@ -30,11 +30,11 @@ public class Movement : MonoBehaviour {
 
         if (move_vector.x !=0 && move_vector.y != 0)
         {
-        rbody.MovePosition(rbody.position + move_vector * 10 * Time.deltaTime);
+        rbody.MovePosition(rbody.position + move_vector * 15 * Time.deltaTime);
         }
         else
         {
-        rbody.MovePosition(rbody.position + move_vector * 15 * Time.deltaTime);
+        rbody.MovePosition(rbody.position + move_vector * 20 * Time.deltaTime);
         }
 
     }
